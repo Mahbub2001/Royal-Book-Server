@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Novels",
+        "image":"https://i.ibb.co/xGKjmVS/novel.png"
+    },
+    {
+        "name":"Comics",
+        "image":"https://i.ibb.co/Ns16JJN/comics.png"
+    },
+    {
+        "name":"Historical",
+        "image":"https://i.ibb.co/j30vtK2/history.png"
+    },
+    {
+        "name":"Horror",
+        "image":"https://i.ibb.co/ZB7Z6JR/horror.jpg"
+    },
+    {
+        "name":"Technology",
+        "image":"https://i.ibb.co/WnPmh7p/technology.png"
+    },
+    {
+        "name":"Adventure",
+        "image":"https://i.ibb.co/6nD2b28/Adventure.png"
+    },
+    {
+        "name":"Bussiness",
+        "image":"https://i.ibb.co/JksMjQn/bussiness.png"
+    }
+]
